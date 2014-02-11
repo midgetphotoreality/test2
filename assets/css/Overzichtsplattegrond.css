@@ -1,0 +1,30 @@
+#Overzichtsplattegrond {
+	
+}
+
+.OverzichtsplattegrondTitle {
+	position:relative; top:10px;
+	font-size:30px; font-weight:bold; color:#FFFFFF; line-height:30px;
+}
+
+.OverzichtsplattegrondClose {
+	display:block; position:absolute; top:100px;left:705px;
+	font-size:20px; font-weight:bold; color:#FF6666; line-height:20px; text-decoration:none;
+}
+
+.imgOverzicht{
+	display:block; position:relative; top:60px;left:24px;
+}
+
+#helpText{
+	background-color: #009bdc;
+	display:block;
+	position:relative; top:-352px;left:754px;
+	width:200px;
+	color:#FFFFFF;
+}
+
+a.over_link:link {color:#FFFFFF;text-decoration:underline;}      /* unvisited link */
+a.over_link:visited {color:#FFFFFF;text-decoration:underline;}  /* visited link */
+a.over_link:hover {color:#FFFFFF;text-decoration:underline;}  /* mouse over link */
+a.over_link:active {color:#FFFFFF;text-decoration:underline;}  /* selected link */

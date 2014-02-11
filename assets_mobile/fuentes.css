@@ -1,0 +1,40 @@
+html, body {
+	padding: 0px 0px 0px 0px; 
+	margin: 0px 0px 0px 0px;
+	background-color:#E7E7E7;
+}
+
+div.mapsContainer {
+	position:relative;
+}
+
+img.maps {
+	padding: 0px 0px 0px 0px; 
+	margin: 0px 0px 0px 0px;
+}
+
+div.floor1_container {
+	position:absolute;
+	top:0px;
+	left:100px;
+}
+
+div.floor2_container {
+	position:absolute;
+	top:500px;
+	left:150px;
+}
+
+div.floors_collection {
+	position:relative;
+}
+img.floors_tjatchi {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+div.Core31415926535897932384626433832preload{
+	opacity: 0; 
+	visibility: visible;
+	top:-3141592px;
+}

@@ -1,0 +1,126 @@
+/*_INITIALS____________________________________________________________________________*/
+
+div.maps{
+	position:absolute;
+	top:10px;
+	left:560px;
+}
+
+.ontzichtbaar {
+	display:none;
+}
+
+div.labelMap1{
+	position:absolute;
+	top: 34px;
+	left: 450px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #353535;
+}
+
+div.labelMap2{
+	position:absolute;
+	left:450px;
+	top:373px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #353535;
+}
+
+div.topLabel{
+	display:none;
+    /*
+	position:absolute;
+	top:50px;
+	left:262px;
+	font-size:18px;
+	*/
+}
+
+
+div.map {
+	position:relative;
+}
+
+div.map1 {
+	/*height:350px;*/
+}
+
+div.map2 {
+	top:20px;
+}
+
+.mapFloor {
+	position:relative; top:0px; left:0px;
+}
+
+.mapContent {
+	position:absolute; top:0px; left:0px;
+}
+
+.mapImage {
+	position:relative; top:0px; left:0px;
+}
+
+.mapArrow {
+	width:0px;
+	height:0px;
+}
+
+span.mapLabelStart {
+	color:black;
+	display: inline-block;
+	white-space:nowrap;
+}
+
+span.mapLabelEnd {
+	padding: 2px;
+	color:white;
+	background-color:#353535;
+	display: inline-block;
+	white-space:nowrap;
+}
+/*
+.tooltip {
+	display:inline-block; width:auto; height:auto; padding-bottom:13px;
+	background:url("./images/tooltip_bg.png") bottom right no-repeat;
+	position:absolute;
+}
+*/
+.tooltip {
+	display:block; position:absolute;
+}
+.tooltipInner {
+	display:inline-block; width:auto; height:auto; min-width:100px; padding-bottom:13px; bottom:10px; right:-50px;
+	background:url("./images/tooltip_bg.png") bottom right no-repeat;
+	position:absolute;
+}
+.tooltip span {
+	display:block; padding:10px 10px 10px 10px;
+	color:#FFFFFF;
+	-webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px;
+	background:rgba(0,0,0,0.89);
+}
+/*
+div.floor1_container {
+	position:absolute;
+	top:0px;
+	left:100px;
+}
+
+div.floor2_container {
+	position:absolute;
+	top:500px;
+	left:150px;
+}
+
+div.floors_collection {
+	position:relative;
+}
+img.floors_tjatchi {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+*/

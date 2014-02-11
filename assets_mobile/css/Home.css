@@ -1,0 +1,141 @@
+/*_INITIALS____________________________________________________________________________*/
+/*div.initials {
+	display:block; width:180px; height:510px; position:absolute; top:140px; left:25px;
+}
+div.initialButton:hover { color:#1F1C20; overflow:visible; }
+div.initialButton {
+	display:block; width:20px; height:20px; position:relative; top:0px; left:0px; margin-bottom:1px; overflow:hidden;
+	font-size:16px; font-weight:bold; color:#009BDC;
+	cursor:pointer;
+	
+}
+div.initialButtonInnerMenu {
+	display:block; width:200px; height:auto; position:absolute; top:0px; left:20px;
+}
+div.initialButtonInnerMenuItem:hover {
+	background-color:#0FB7FF;
+}
+div.initialButtonInnerMenuItem {
+	display:block; width:200px; height:20px; position:relative; top:0px; left:0px; padding-left:5px; margin-bottom:1px;
+	font-size:11px; font-weight:normal; line-height:20px; color:#FFFFFF;
+	cursor:pointer;
+	background-color:#009BDC;
+}*/
+
+
+
+/*_MAPS________________________________________________________________________________*/
+/*#map1Container {
+	display:block; width:770px; height:360px; position:absolute; top:76px; left:250px;
+}
+#map2Container {
+	display:block; width:770px; height:360px; position:absolute; top:450px; left:250px;
+}*/
+
+
+/*_FUENTES_____________________________________________________________________________*/
+/*_FUENTES_____________________________________________________________________________*/
+/*_FUENTES_____________________________________________________________________________*/
+/*_FUENTES_____________________________________________________________________________*/
+/*_FUENTES_____________________________________________________________________________*/
+/*_FUENTES_____________________________________________________________________________*/
+/*_FUENTES_____________________________________________________________________________*/
+/*
+div.mapsContainer {
+	position:relative;
+}
+img.maps {
+	padding: 0px 0px 0px 0px; 
+	margin: 0px 0px 0px 0px;
+}
+*/
+
+.ontzichtbaar {
+	display:none;
+}
+
+div.maps {
+	left:5px;
+}
+
+div.map {
+	position:relative;
+}
+
+div.map1 {
+	/*height:350px;*/
+}
+
+div.map2 {
+	top:20px;
+}
+
+.mapFloor {
+	position:relative; top:0px; left:0px;
+}
+
+.mapContent {
+	position:absolute; top:0px; left:0px;
+}
+
+.mapImage {
+	position:relative; top:0px; left:0px;
+}
+
+.mapArrow {
+	width:0px;
+	height:0px;
+}
+
+span.mapLabelStart {
+	color:black;
+	display: inline-block;
+	white-space:nowrap;
+
+	/*transform:scale(0.5, 0.5);*/
+	/*-ms-transform:scale(0.5, 0.5); *//* IE 9 */
+	/*-webkit-transform:scale(0.5, 0.5);*/ /* Safari and Chrome */
+}
+
+span.mapLabelEnd {
+	color:white;
+	background-color:#AAAAAA;
+	display: inline-block;
+	white-space:nowrap;
+}
+.tooltip {
+	display:block; position:absolute;
+}
+.tooltipInner {
+	display:inline-block; width:auto; height:auto; min-width:100px; padding-bottom:13px; bottom:10px; right:-50px;
+	background:url("./images/tooltip_bg.png") bottom right no-repeat;
+	position:absolute;
+}
+.tooltip span {
+	display:block; padding:10px 10px 10px 10px;
+	color:#FFFFFF;
+	-webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px;
+	background:rgba(0,0,0,0.89);
+}
+/*
+div.floor1_container {
+	position:absolute;
+	top:0px;
+	left:100px;
+}
+
+div.floor2_container {
+	position:absolute;
+	top:500px;
+	left:150px;
+}
+
+div.floors_collection {
+	position:relative;
+}
+img.floors_tjatchi {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+*/

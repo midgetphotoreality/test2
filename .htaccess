@@ -1,0 +1,14 @@
+order deny,allow
+allow from 212.159.197.144
+allow from 212.159.197.145
+allow from 193.110.235.116
+allow from 193.110.235.117
+allow from 193.110.235.118
+allow from 193.110.235.119
+allow from 193.110.235.120
+allow from 193.110.235.121
+allow from 193.110.235.122
+allow from 193.110.235.123
+allow from 86.87.14.60
+deny from all
+ErrorDocument 403 "De Sanoma plattegrond is alleen via het intranet te benaderen."
